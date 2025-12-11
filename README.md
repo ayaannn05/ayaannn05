@@ -7,7 +7,7 @@ I'm Ayaan, a developer from Mumbai who loves turning ideas into clean, functiona
 I'm currently working on improving my skills in web development and contributing to open-source projects.
 
 ### Tools I use
-- **Languages:** JavaScript, C+  
+- **Languages:** JavaScript, C 
 - **Technology & Tools:** ReactJS, Tailwind CSS, NodeJS, ExpressJS, FastAPI, Postman, Git/Github
 
 ### How to reach me
