@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**ayaannn05/ayaannn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+I'm a Ayaan, a developer from Mumbai who loves turning ideas into clean, functional code. I enjoy learning new technologies and building projects that solve real problems.
 
-Here are some ideas to get you started:
+### What I'm currently working on
+I'm currently working on improving my skills in web development and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+- **Languages:** JavaScript, C+  
+- **Technology & Tools:** ReactJS, Tailwind CSS, NodeJS, ExpressJS, FastAPI, Postman, Git/Github
+
+### How to reach me
+- 📧 Email: ayaann05ansari@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ayaan-ansari-393063297/
+- 🌐 Portfolio: https://ayaan-ansari-portfolio.netlify.app/
