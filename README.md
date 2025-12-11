@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 ### Who am I?
-I'm a Ayaan, a developer from Mumbai who loves turning ideas into clean, functional code. I enjoy learning new technologies and building projects that solve real problems.
+I'm Ayaan, a developer from Mumbai who loves turning ideas into clean, functional code. I enjoy learning new technologies and building projects that solve real problems.
 
 ### What I'm currently working on
 I'm currently working on improving my skills in web development and contributing to open-source projects.
